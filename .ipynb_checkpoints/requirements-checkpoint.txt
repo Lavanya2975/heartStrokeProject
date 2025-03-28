@@ -1,4 +1,10 @@
-streamlit
+streamlit==1.28.0
+numpy
 pandas
 scikit-learn
-pickle-mixin
+matplotlib
+seaborn
+flask
+xgboost
+joblib
+requests
